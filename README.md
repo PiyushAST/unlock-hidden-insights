@@ -1,4 +1,3 @@
-```markdown
 # Unlock Hidden Insights Repository
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -125,4 +124,3 @@ Please refer to the `CONTRIBUTING.md` file for more detailed instructions.  We a
 ## License Information
 
 This repository is licensed under the [MIT License](LICENSE).  See the `LICENSE` file for more details.
-```
